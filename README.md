@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=FourLineCode&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=FourLineCode&show_icons=true&count_private=true&theme=material-palenight)
 
 <!--
 **FourLineCode/FourLineCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
