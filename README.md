@@ -1,16 +1,29 @@
-![](https://github-readme-stats.vercel.app/api?username=FourLineCode&show_icons=true&count_private=true&theme=material-palenight)
+<h1 align="center">
+  Welcome to FourLineCode's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-<!--
-**FourLineCode/FourLineCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A developer passionate about technology.</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FourLineCode&theme=material-palenight&langs_count=6&layout=compact"><img alt="FourLineCode Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FourLineCode&theme=material-palenight&langs_count=6&layout=compact" /></a>
+ </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">🔥 Streak Stats</h2>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=FourLineCode&theme=dracula" alt="FourLineCode" />
+</p>
+
+<h2 align="center">📊 Contribution Stats</h2>
+
+<p align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FourLineCode&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</p>
+
+<h2 align="center">📈 Profile Stats</h2>
+
+<p align="center">
+<a  href="https://github-readme-stats.vercel.app/api?username=FourLineCode&count_private=true&show_icons=true&theme=material-palenight"><img alt="FourLineCode Activity Graph" src="https://github-readme-stats.vercel.app/api?username=FourLineCode&count_private=true&show_icons=true&theme=material-palenight" /></a>
+  
+</p>
