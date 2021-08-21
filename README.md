@@ -6,7 +6,7 @@
 <h3 align="center">A developer passionate about technology.</h3>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FourLineCode&theme=dracula&langs_count=6&layout=compact"><img alt="FourLineCode Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FourLineCode&theme=dracula&langs_count=6&layout=compact" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FourLineCode&theme=dracula&langs_count=6&layout=compact&hide=css"><img alt="FourLineCode Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FourLineCode&theme=dracula&langs_count=6&layout=compact&hide=css" /></a>
  </p>
 
 <h2 align="center">🔥 Streak Stats</h2>
