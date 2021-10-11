@@ -29,8 +29,10 @@
 
 <h2 align="center">🔥 Streak Stats</h2>
 <p align="center">
-	<a href="http://github-readme-streak-stats.herokuapp.com?user=FourLineCode&theme=dracula">
+	<a
 		target="_blank"
+		href="http://github-readme-streak-stats.herokuapp.com?user=FourLineCode&theme=dracula"
+	>
 		<img
 			src="http://github-readme-streak-stats.herokuapp.com?user=FourLineCode&theme=dracula"
 			alt="FourLineCode"
