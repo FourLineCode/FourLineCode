@@ -8,6 +8,7 @@
 <h2 align="center">👤 Profile Stats</h2>
 <p align="center">
 	<a
+		target="_blank"
 		href="https://github-readme-stats.vercel.app/api?username=FourLineCode&count_private=true&show_icons=true&theme=dracula"
 		><img
 			alt="FourLineCode Activity Graph"
@@ -18,6 +19,7 @@
 <h2 align="center">📊 Most Used Languages</h2>
 <p align="center">
 	<a
+		target="_blank"
 		href="https://github-readme-stats.vercel.app/api/top-langs/?username=FourLineCode&theme=dracula&langs_count=6&layout=compact&hide=css"
 		><img
 			alt="FourLineCode Activity Graph"
@@ -28,6 +30,7 @@
 <h2 align="center">🔥 Streak Stats</h2>
 <p align="center">
 	<a href="http://github-readme-streak-stats.herokuapp.com?user=FourLineCode&theme=dracula">
+		target="_blank"
 		<img
 			src="http://github-readme-streak-stats.herokuapp.com?user=FourLineCode&theme=dracula"
 			alt="FourLineCode"
@@ -38,6 +41,7 @@
 <h2 align="center">🗠 Contribution Stats</h2>
 <p align="center">
 	<a
+		target="_blank"
 		href="https://activity-graph.herokuapp.com/graph?username=FourLineCode&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"
 		><img
 			alt="Activity Graph"
