@@ -80,20 +80,20 @@
                 src="https://github-readme-stats.vercel.app/api?username=FourLineCode&count_private=true&show_icons=true&theme=dracula"
             />
         </td>
+    </tr>
+    <tr>
         <td>
             <img
                 width="5000"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=FourLineCode&theme=dracula&langs_count=6&layout=compact&hide=css"
             />
         </td>
-    </tr>
-    <tr>
-        <td colspan="2">
+<!--         <td colspan="2">
             <img
                 width="5000"
                 src="http://github-readme-streak-stats.herokuapp.com?user=FourLineCode&theme=dracula"
             />
-        </td>
+        </td> -->
 <!--         <td>
             <img
                 width="5000"
