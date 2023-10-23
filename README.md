@@ -88,17 +88,17 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td colspan="2">
             <img
                 width="5000"
                 src="http://github-readme-streak-stats.herokuapp.com?user=FourLineCode&theme=dracula"
             />
         </td>
-        <td>
+<!--         <td>
             <img
                 width="5000"
                 src="https://activity-graph.herokuapp.com/graph?username=FourLineCode&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"
             />
-        </td>
+        </td> -->
     </tr>
 </table>
